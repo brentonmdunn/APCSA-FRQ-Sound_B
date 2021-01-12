@@ -1,2 +1,2 @@
-# APCSA-FRQ
-Project with Carlos Campa
+# FRQ Sound B
+Carlos Campa and Brenton Dunn
