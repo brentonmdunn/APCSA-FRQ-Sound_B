@@ -1,3 +1,11 @@
+//**
+* Sound.java
+* @author Brenton Dunn
+* @author Carlos Campa
+* @since 14 January 2021
+* @version 1.0
+*/
+
 import java.util.Arrays;
 public class Sound
 {
